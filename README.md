@@ -5,6 +5,9 @@
 * 학습한 것은 <a href="https://humdrum-lark-fa5.notion.site/Dev-Space-21d3cef9947440c7b120d11db4c28fc3">노션</a>에 정리하여 위키로 활용하고 있습니다.
 
 <!--
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNB993&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+
 **NB993/NB993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
