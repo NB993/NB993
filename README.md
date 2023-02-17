@@ -1,6 +1,6 @@
 ### 안녕하세요 🙂
 
-* Java/Spring을 학습 중이며 현재 백엔드 포지션에 구직중입니다.
+* Java/Spring 기반의 백엔드 개발자입니다.
 * 약 2년 간의 <a href="https://sapui5.hana.ondemand.com/">SAPUI5</a>(SPA framework) 개발 경력이 있습니다.
 * 학습한 것은 <a href="https://humdrum-lark-fa5.notion.site/Dev-Space-21d3cef9947440c7b120d11db4c28fc3">노션</a>에 정리하여 위키로 활용하고 있습니다.
 
